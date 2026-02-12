@@ -1,7 +1,10 @@
 # 📊 Sales Performance Dashboard – Power BI
 
 ## 📌 Project Overview
-This project presents an interactive Sales Performance Dashboard built using Power BI to analyze sales trends, regional performance, and category insights.
+This project presents an interactive Sales Performance Dashboard built using Power BI to analyze business performance across regions, categories, and time periods.
+
+## 📷 Dashboard Preview
+![Dashboard Preview](dashboard-preview.png)
 
 ## 🔑 Key Features
 - KPI Cards (Total Sales, Total Orders, Total Customers, Avg Sales per Order)
@@ -9,30 +12,27 @@ This project presents an interactive Sales Performance Dashboard built using Pow
 - Region-wise Sales Performance
 - Category & Sub-Category Breakdown
 - State-wise Sales Map Visualization
-- Dynamic Slicers (Year, Region, Category)
+- Dynamic Filters (Year, Region, Category)
 
 ## 🛠 Tools & Technologies Used
 - Power BI
 - DAX
-- Data Visualization
 - Data Modeling
+- Data Visualization
 
-## 📁 Files Included
-- Sales Report.pbix (Power BI File)
-- Dashboard PDF
-- Dataset (if available)
-
-## 🚀 Business Insights
+## 📈 Business Insights
 - Identified top-performing regions
 - Analyzed category contribution to total sales
-- Tracked yearly sales growth trends
-- Visualized geographic sales distribution
-- dashboard-preview.png
-## 📷 Dashboard Preview
+- Evaluated yearly growth trends
+- Visualized geographic distribution of sales
 
-![Dashboard Preview](dashboard-preview.png)
+## 📁 Files Included
+- Sales Report.pbix
+- Dataset (if available)
+
 ---
 
 ### 👨‍💻 Author
 Guru Swamy
+
 
